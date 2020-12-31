@@ -1,3 +1,4 @@
 adding line A
 addnig text B
-change accepted (user A and B)
+User B
+user A
