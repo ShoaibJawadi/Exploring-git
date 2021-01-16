@@ -1,2 +1,4 @@
 hello world this the first command that i want to use 
-i want to test cloneing repository form github
+i want to test cloneing repository form github 
+i want to make some changesdd
+this is line 4 by mary
